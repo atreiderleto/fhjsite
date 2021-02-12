@@ -40,7 +40,7 @@ const openR = () => {
     
     const latertalR = document.querySelector('.lateral-r');
     latertalR.classList.remove('hidden')
-    return;
+    
 }
 
 
@@ -50,7 +50,7 @@ const openRD = () => {
     
     const latertalR = document.querySelector('.lateral-r');
     latertalR.classList.remove('hidden')
-    return;
+    
 }
 
 
@@ -60,5 +60,5 @@ const closeR = () => {
     
     const latertalR = document.querySelector('.lateral-r');
     latertalR.classList.add('hidden')
-    return;
+    
 }
