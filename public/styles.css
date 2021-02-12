@@ -534,7 +534,7 @@ video {
 }
 
 .bg-sticker1{
-  background-image: url('../public/img/medio/Group4.svg');
+  background-image: url('./public/img/medio/Group4.svg');
 }
 
 .bg-cursos{
