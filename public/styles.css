@@ -534,11 +534,11 @@ video {
 }
 
 .bg-sticker1{
-  background-image: url('img/medio/Group4.svg');
+  background-image: url('/src/img/medio/Group4.svg');
 }
 
 .bg-cursos{
-  background-image: url('img/cursos/Rectangle631.png');
+  background-image: url('/src/img/cursos/Rectangle631.png');
 }
 
 .bg-cover{
@@ -1103,7 +1103,7 @@ video {
 .input {
   --tw-bg-opacity: 1;
   background-color: rgba(247, 247, 252, var(--tw-bg-opacity));
-  background-image: url('img/medio/icons8_search.svg');
+  background-image: url('/src/img/medio/icons8_search.svg');
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 1rem;
@@ -1295,7 +1295,7 @@ video {
 }
 
 .jumbo {
-  background-image: url('img/medio/jumbotron.png');
+  background-image: url('/src/img/medio/jumbotron.png');
   background-size: cover;
   border-radius: 1rem;
   padding: 1rem
