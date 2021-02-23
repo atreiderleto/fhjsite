@@ -19,7 +19,7 @@ module.exports = {
         'sticker': "url('/public/img/medio/grupo3.png')",
         'sticker1': "url('/public/img/medio/Group4.svg')",
         'sticker2': "url('/public/img/medio/Group5.svg')",
-        'cursos': "url('public/img/cursos/Rectangle631.png')",
+        'cursos': "url('/public/img/cursos/Rectangle631.png')",
       }),
       keyframes: {
 
