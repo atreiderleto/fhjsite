@@ -33,7 +33,7 @@
 
 
 .jumbo {
-    @apply bg-jumbo bg-cover rounded-2xl  xl:col-start-3 xl:col-end-8 xl:row-start-2 xl:row-end-4 p-4 xl:p-12 xl:pb-0 xl:mr-6
+    @apply bg-jumbo bg-cover rounded-2xl  xl:col-start-3 xl:col-end-8 xl:row-start-2 xl:row-end-4 p-4 sm:p-8 xl:p-12 xl:pb-0 xl:mr-6
 }
 
 .font{
