@@ -14,12 +14,12 @@ module.exports = {
         syellow: '#FFCE00',
       },
       backgroundImage: theme => ({
-        'busqueda': "url('/public/img/medio/icons8_search.svg')",
-        'jumbo': "url('/public/img/medio/jumbotron.png')",
-        'sticker': "url('/public/img/medio/grupo3.png')",
-        'sticker1': "url('/public/img/medio/Group4.svg')",
-        'sticker2': "url('/public/img/medio/Group5.svg')",
-        'cursos': "url('/public/img/cursos/Rectangle631.png')",
+        'busqueda': "url('./img/medio/icons8_search.svg')",
+        'jumbo': "url('./img/medio/jumbotron.png')",
+        'sticker': "url('./img/medio/grupo3.png')",
+        'sticker1': "url('./img/medio/Group4.svg')",
+        'sticker2': "url('./img/medio/Group5.svg')",
+        'cursos': "url('./img/cursos/Rectangle631.png')",
       }),
       keyframes: {
 
